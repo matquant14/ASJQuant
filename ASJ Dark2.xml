@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>ASJD21</id>
+  <editorColorsScheme>ASJ Dark 2.1</editorColorsScheme>
+  <dark>true</dark>
+  <name>ASJ Dark 2.1</name>
+  <colors>
+    <color id="background" value="292929ff"/>
+    <color id="foreground" value="ffffffff"/>
+    <color id="text" value="ffffffff"/>
+    <color id="highlight" value="306cd0ff"/>
+    <color id="selectionBackground" value="191d21ff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="505050ff"/>
+    <color id="secondaryBackground" value="323232ff"/>
+    <color id="disabled" value="999999ff"/>
+    <color id="contrast" value="2c2c2cff"/>
+    <color id="tableSelected" value="505050ff"/>
+    <color id="secondBorder" value="323232ff"/>
+    <color id="treeSelection" value="565d61ff"/>
+    <color id="notifications" value="252525ff"/>
+    <color id="accent" value="3a76f4ff"/>
+    <color id="excluded" value="232323ff"/>
+  </colors>
+  <themeId>ASJD21</themeId>
+</mtTheme>
